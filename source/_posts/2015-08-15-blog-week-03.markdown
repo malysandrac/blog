@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Blog week 03"
+date: 2015-07-06 23:07:12 -0500
+comments: true
+categories: 
+Author: Sandra Maly
+---
+
+In my third weeek I worked on chapter 02. We learned how to build statements which they contain expressions. I learned that putting statements after one another give you program runs from top to bottom, using conditional(if, else, and switch) and looping (while, do, and for) stgatements. I also learned about using Variables. I have also been practicing on my ipad Jvascript and how it works and why? I really am enjoying the app because I am being tested in what I'm learning and if I font respond correctly I cant move forward.
