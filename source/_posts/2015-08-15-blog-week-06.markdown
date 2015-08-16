@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Blog week 06"
+date: 2015-07-24 23:44:08 -0500
+comments: true
+categories:
+Author: Sandra Maly 
+---
+
+This is my blog post of week 6, its been an ok week so far. I've been doing a little of everything trying to stay up to date with the due dates on stuff even though sometimes I think Im going crazy with so much stuff to be done and not have enough time for me personaly to relax. Even though I thought of quiting the class I am very determined to finish this class and try my 100% at this. I wanna thank everyone in the class that has helped me understand stuff into detail. I am having a little fun working with HTML stuff I learned from coode school and stuff I've been doing on my own research. I'm just praying that God get me thru this class to finish it.
