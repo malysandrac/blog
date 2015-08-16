@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://malysandrac.github.io/blog/atom.xml" rel="self"/>
   <link href="http://malysandrac.github.io/blog/"/>
-  <updated>2015-08-15T22:36:48-05:00</updated>
+  <updated>2015-08-15T23:02:09-05:00</updated>
   <id>http://malysandrac.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,6 +19,17 @@
     <updated>2015-08-15T22:07:41-05:00</updated>
     <id>http://malysandrac.github.io/blog/blog/2015/08/15/blog-week-number-1</id>
     <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blog Week 02]]></title>
+    <link href="http://malysandrac.github.io/blog/blog/2015/06/26/blog-week-02/"/>
+    <updated>2015-06-26T22:47:09-05:00</updated>
+    <id>http://malysandrac.github.io/blog/blog/2015/06/26/blog-week-02</id>
+    <content type="html"><![CDATA[<p>This week #2 I have learned alot of things in JavaScript. we learned about four types of JavaScript which are: 1) Numbers 2) Strings 3) Booleans 4) Undefined Values</p>
+
+<p>We worked with Arithmetic using special numbers, Strings, Unary operators, Boolean Values &amp; Logical operatores.</p>
 ]]></content>
   </entry>
   
