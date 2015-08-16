@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Blog week 02"
+date: 2015-06-26 22:47:09 -0500
+comments: true
+categories: 
+Author: Sandra Maly
+---
+
+This week #2 I have learned alot of things in JavaScript. we learned about four types of JavaScript which are: 1) Numbers 2) Strings 3) Booleans 4) Undefined Values
+
+We worked with Arithmetic using special numbers, Strings, Unary operators, Boolean Values & Logical operatores.
