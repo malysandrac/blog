@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Blog week 05"
+date: 2015-07-19 23:35:24 -0500
+comments: true
+categories:
+Author: Sandra Maly 
+---
+
+This is my week05 blogpost it has been an intresting week. I felt a little lost working with javascript in the chapter02 but now that my former classmate Kathy has helped me understand it more but not at the point to feel comftable working with it alone. We started working with HTML and I enjoy working this much more because I feel like I understand it and is straight forward on what things need to be done. I loved working with codeschool. I feel I learned alot going thru codeschool with the tests.
