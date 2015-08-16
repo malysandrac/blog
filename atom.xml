@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://malysandrac.github.io/blog/atom.xml" rel="self"/>
   <link href="http://malysandrac.github.io/blog/"/>
-  <updated>2015-08-15T23:31:54-05:00</updated>
+  <updated>2015-08-15T23:38:50-05:00</updated>
   <id>http://malysandrac.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,6 +19,15 @@
     <updated>2015-08-15T22:07:41-05:00</updated>
     <id>http://malysandrac.github.io/blog/blog/2015/08/15/blog-week-number-1</id>
     <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blog Week 05]]></title>
+    <link href="http://malysandrac.github.io/blog/blog/2015/07/19/blog-week-05/"/>
+    <updated>2015-07-19T23:35:24-05:00</updated>
+    <id>http://malysandrac.github.io/blog/blog/2015/07/19/blog-week-05</id>
+    <content type="html"><![CDATA[<p>This is my week05 blogpost it has been an intresting week. I felt a little lost working with javascript in the chapter02 but now that my former classmate Kathy has helped me understand it more but not at the point to feel comftable working with it alone. We started working with HTML and I enjoy working this much more because I feel like I understand it and is straight forward on what things need to be done. I loved working with codeschool. I feel I learned alot going thru codeschool with the tests.</p>
 ]]></content>
   </entry>
   
