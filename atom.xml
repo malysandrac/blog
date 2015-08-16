@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://malysandrac.github.io/blog/atom.xml" rel="self"/>
   <link href="http://malysandrac.github.io/blog/"/>
-  <updated>2015-08-10T16:59:11-05:00</updated>
+  <updated>2015-08-15T22:36:48-05:00</updated>
   <id>http://malysandrac.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,20 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://malysandrac.github.io/blog/blog/2015/08/10/first-post/"/>
-    <updated>2015-08-10T16:47:51-05:00</updated>
-    <id>http://malysandrac.github.io/blog/blog/2015/08/10/first-post</id>
-    <content type="html"><![CDATA[<h2>blog Hey whats up</h2>
+    <title type="html"><![CDATA[Blog Week #1]]></title>
+    <link href="http://malysandrac.github.io/blog/blog/2015/08/15/blog-week-number-1/"/>
+    <updated>2015-08-15T22:07:41-05:00</updated>
+    <id>http://malysandrac.github.io/blog/blog/2015/08/15/blog-week-number-1</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blog Week]]></title>
+    <link href="http://malysandrac.github.io/blog/blog/2015/06/19/first-post/"/>
+    <updated>2015-06-19T16:47:51-05:00</updated>
+    <id>http://malysandrac.github.io/blog/blog/2015/06/19/first-post</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m loving all the new things that we are learning in the class seems very intresting. Little by little I am starting to actully get some of this stuff.</p>
 ]]></content>
   </entry>
   
