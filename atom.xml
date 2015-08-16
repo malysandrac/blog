@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://malysandrac.github.io/blog/atom.xml" rel="self"/>
   <link href="http://malysandrac.github.io/blog/"/>
-  <updated>2015-08-15T23:02:09-05:00</updated>
+  <updated>2015-08-15T23:17:27-05:00</updated>
   <id>http://malysandrac.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -19,6 +19,15 @@
     <updated>2015-08-15T22:07:41-05:00</updated>
     <id>http://malysandrac.github.io/blog/blog/2015/08/15/blog-week-number-1</id>
     <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Blog Week 03]]></title>
+    <link href="http://malysandrac.github.io/blog/blog/2015/07/06/blog-week-03/"/>
+    <updated>2015-07-06T23:07:12-05:00</updated>
+    <id>http://malysandrac.github.io/blog/blog/2015/07/06/blog-week-03</id>
+    <content type="html"><![CDATA[<p>In my third weeek I worked on chapter 02. We learned how to build statements which they contain expressions. I learned that putting statements after one another give you program runs from top to bottom, using conditional(if, else, and switch) and looping (while, do, and for) stgatements. I also learned about using Variables. I have also been practicing on my ipad Jvascript and how it works and why? I really am enjoying the app because I am being tested in what I&rsquo;m learning and if I font respond correctly I cant move forward.</p>
 ]]></content>
   </entry>
   
