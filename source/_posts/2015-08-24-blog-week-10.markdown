@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Blog week 10"
+date: 2015-08-24 00:56:23 -0500
+comments: true
+categories: 
+Author: Sandra Maly
+---
+
+My blog for week 10 let me start by saying its been a very busy week for me to much on my hand to do and so little time running here running there like I'm crazy. Plus the mac been acting up so much but I've stayed calm and breathed.
+
+Rails on bridge was fun if my mac would function correctly which is crazy because they even seemed to have a hard time with it and had no clue why it was working. It was super loud that day I had to put my headphones so I could concentrate on doing things and alot of people which scares me alot thats why I stayed in my spot most of the time, I know Im a little bit weird but thats just me at times.
+I really enjoyed the Madison + Ruby conference it was awesome and super cool. Loved all the presentations they were really inspiring and motivational.
+
