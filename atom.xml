@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://malysandrac.github.io/blog/atom.xml" rel="self"/>
   <link href="http://malysandrac.github.io/blog/"/>
-  <updated>2015-08-16T00:35:25-05:00</updated>
+  <updated>2015-08-24T01:30:32-05:00</updated>
   <id>http://malysandrac.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Blog Week 10]]></title>
+    <link href="http://malysandrac.github.io/blog/blog/2015/08/24/blog-week-10/"/>
+    <updated>2015-08-24T00:56:23-05:00</updated>
+    <id>http://malysandrac.github.io/blog/blog/2015/08/24/blog-week-10</id>
+    <content type="html"><![CDATA[<p>My blog for week 10 let me start by saying its been a very busy week for me to much on my hand to do and so little time running here running there like I&rsquo;m crazy. Plus the mac been acting up so much but I&rsquo;ve stayed calm and breathed.</p>
+
+<p>Rails on bridge was fun if my mac would function correctly which is crazy because they even seemed to have a hard time with it and had no clue why it was working. It was super loud that day I had to put my headphones so I could concentrate on doing things and alot of people which scares me alot thats why I stayed in my spot most of the time, I know Im a little bit weird but thats just me at times.
+I really enjoyed the Madison + Ruby conference it was awesome and super cool. Loved all the presentations they were really inspiring and motivational.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Blog Week 09]]></title>
